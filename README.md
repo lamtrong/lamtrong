@@ -1,16 +1,44 @@
-## Hi there 👋
+# Xin chào, tôi là Lâm Trọng 👋
 
-<!--
-**lamtrong/lamtrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-end Web Developer
 
-Here are some ideas to get you started:
+Tôi đang tập trung phát triển kỹ năng thiết kế và xây dựng giao diện website bằng HTML và CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tôi có thể xây dựng website từ giao diện mẫu, bố cục responsive và tối ưu hiển thị trên nhiều kích thước màn hình.
+
+### 🛠 Kỹ năng
+
+- HTML5
+- CSS3
+- Flexbox
+- Responsive Web Design
+- GitHub
+- GitHub Pages
+
+### 💻 Dự án nổi bật
+
+#### TechFlow - Quản lý công việc thông minh
+
+Landing page giới thiệu nền tảng quản lý công việc, được xây dựng bằng HTML và CSS.
+
+🔗 Demo:
+https://lamtrong.github.io/techflow-portfolio/
+
+🔗 Source code:
+https://github.com/lamtrong/techflow-portfolio
+
+#### Nội Thất An Gia
+
+Website giới thiệu dịch vụ thiết kế và thi công nội thất, có giao diện responsive.
+
+🔗 Demo:
+https://lamtrong.github.io/noithat-angia-portfolio/
+
+🔗 Source code:
+https://github.com/lamtrong/noithat-angia-portfolio
+
+### 🎯 Mục tiêu
+
+Tôi đang tìm kiếm cơ hội làm việc Front-end/Web Design từ xa, đồng thời tiếp tục nâng cao kỹ năng HTML, CSS và Responsive Web Design.
+
+📍 An Khê, Gia Lai, Vietnam
